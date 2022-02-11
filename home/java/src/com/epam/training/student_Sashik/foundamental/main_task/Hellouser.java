@@ -1,7 +1,7 @@
-package com.epam.training.student_Sashik.foundamental.main_task;
+package com.epam.training.student_Sashik.foundamentals.main_task;
 
-public class Hellouser {
+public class HelloUser {
     public static void main(String[] args) {
-        System.out.println("Hello Sashik");
+        System.out.println("Hello Sashik ");
     }
 }
