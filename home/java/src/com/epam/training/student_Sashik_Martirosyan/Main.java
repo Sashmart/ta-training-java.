@@ -1,4 +1,4 @@
-package com.epam.training.student_Sashik;
+package com.epam.training.student_Sashik_Martirosyan;
 
 public class Main {
 
